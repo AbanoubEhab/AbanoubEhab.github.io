@@ -1,5 +1,6 @@
-
+<img style="float: right;" src="profile.jpg"  width="192" height="190">
 # Abanoub Ehab Malak
+
 
 ## Personal Info
 
@@ -74,7 +75,7 @@ IMI (Orange)
 
 ## Other Skills
 
-- **Ability to learn quickly and adapt to new situations**
-- **Strong problem-solving skills**
-- **Ability to work independently or as part of a team**
+- Ability to learn quickly and adapt to new situations
+- Strong problem-solving skills
+- Ability to work independently or as part of a team
 
