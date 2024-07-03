@@ -1,5 +1,6 @@
 site_name: Abanoub Ehab
 theme:
+  custom_dir: overrides
   name: material
   palette:
 
@@ -18,6 +19,17 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+
+  features:
+      - navigation.tabs
+      - navigation.top
+
+
+  hide:
+    - navigation
+    - toc
+
+
 extra:
   social:
     - icon: fontawesome/brands/linkedin 
@@ -25,3 +37,12 @@ extra:
 
     - icon: fontawesome/brands/github 
       link: https://github.com/AbanoubEhab
+
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/abanoub.ehab.malak
+
+    - icon: fontawesome/brands/discord 
+      link: https://discordapp.com/users/989272289289863198
+
+
+
