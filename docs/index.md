@@ -16,20 +16,25 @@ hide:
 - Military status: Exempted 
 - Address: Ezbet Alnakel,Marg 
 
-
+---
 ## Education 
 
 Faculty of Commerce (Accounting) Ain Shams University, 2020, (65.15% Good)
+
+---
 
 ## Languages
 
 English: Very Good.
 
+---
 ## Courses
 
 - CCNA 
 - MCSA
 - Linux, RedHat admin I
+
+---
 
 ## Computer skills
 
@@ -38,6 +43,8 @@ English: Very Good.
 - Frappe ERP System Administration
 - Programming: Python scripting
 - Office Applications: Microsoft Word, Excel, Access, PowerPoint
+
+---
 
 ## WORK EXPERIENCE
 
@@ -66,6 +73,7 @@ Canotech – Canon
 - Train customers on how to use photocopiers and troubleshoot common issues.
 - Installing needed drivers for photocopiers and printers to function.
 
+
 ### Call Center Agent
 
 May 2017 – Oct 2017
@@ -77,11 +85,14 @@ IMI (Orange)
 - Documented all customer interactions and transactions accurately and thoroughly in the company's database.
 - Participated in training sessions and team meetings to stay up-to-date on company products, policies, and procedures.
 
+---
+
 ## Other Skills
 
 - Ability to learn quickly and adapt to new situations
 - Strong problem-solving skills
 - Ability to work independently or as part of a team
 
-[Subscribe to our newsletter](#){ .md-button }
+
+[Download as PDF](https://drive.google.com/file/d/1IELMwuhPe4A0Ch2Ij_w0smm_QMUzInFT/view?usp=drive_link){ .md-button}
 

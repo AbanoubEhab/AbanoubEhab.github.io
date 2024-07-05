@@ -1,33 +1,22 @@
-site_name: Abanoub Ehab
+site_name: Abanoub
+repo_url: https://github.com/AbanoubEhab/AbanoubEhab.github.io
 theme:
 
   name: material
   palette:
 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+
 
   features:
       - navigation.tabs
       - navigation.top
 
-
-  hide:
-    - navigation
-    - toc
+markdown_extensions:
+  - attr_list
 
 
 extra:
@@ -44,5 +33,5 @@ extra:
     - icon: fontawesome/brands/discord 
       link: https://discordapp.com/users/989272289289863198
 
-
+  
 
