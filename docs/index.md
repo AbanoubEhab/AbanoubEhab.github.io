@@ -4,7 +4,7 @@ hide:
 ---
 
 # Abanoub Ehab Malak
-<img style="float: right;" src="profile.jpg"  width="192" height="190">
+<img style="float: right;" src="assets/profile.jpg"  width="192" height="190">
 
 ## Personal Info
 
@@ -94,5 +94,5 @@ IMI (Orange)
 - Ability to work independently or as part of a team
 
 
-[Download as PDF](https://drive.google.com/file/d/1IELMwuhPe4A0Ch2Ij_w0smm_QMUzInFT/view?usp=drive_link){ .md-button}
+[Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
 
