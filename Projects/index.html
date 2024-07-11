@@ -202,7 +202,7 @@
   
     
   
-  Abanoub Ehab Malak
+  Resume
 
       </a>
     </li>
@@ -239,7 +239,9 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -284,7 +286,7 @@
         
   
   <span class="md-ellipsis">
-    Abanoub Ehab Malak
+    Resume
   </span>
   
 
@@ -381,6 +383,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#setting-lancache-server" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setting Lancache server
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -396,6 +407,8 @@
               </div>
             
             
+              
+                
               
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
@@ -451,6 +464,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#setting-lancache-server" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setting Lancache server
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -472,24 +494,34 @@
 <h1 id="projects">Projects</h1>
 <h2 id="proxmox">Proxmox</h2>
 <ul>
-<li>Having something to host whatever come to your mind is pretty neat , i boat an old PC that i installed Proxmox on it so i can try new things i can self-host easily</li>
-<li>It can be used to host Virtual Machines or LXC container, you can download some pre-configured servers as LXC container from Turnkey linux directly </li>
+<li>Having something to host whatever come to your mind is pretty neat , i boat an old PC that i installed Proxmox on it so i can try new things i can self-host easily.</li>
+<li>It can be used to host Virtual Machines or LXC container, you can download some pre-configured servers as LXC container from Turnkey linux directly.</li>
 </ul>
 <h2 id="host-password-manager">Host Password Manager</h2>
 <ul>
-<li>Bitwarden is a very cool password Manager ,it supports 2FA and can be used offline if you don't have internet connection</li>
-<li>I have never used password managers before self-host it because i don't trust a big company with my passwords whatever they say about privacy and security , so when i found out that i can self-host it i gave it a try</li>
+<li>Bitwarden is a very cool password Manager ,it supports 2FA and can be used offline if you don't have internet connection.</li>
+<li>I have never used password managers before self-host it because i don't trust a big company with my passwords whatever they say about privacy and security , so when i found out that i can self-host it i gave it a try.</li>
 </ul>
 <h2 id="pfsence-firewall-inside-proxmox">Pfsence firewall inside Proxmox</h2>
 <ul>
-<li>If you don't have firewall (hardware) you can install pfsense on a virtual machine and network cards (NIC) can be virtualized</li>
-<li>You can also install ad-blocker inside your firewall (it block ads using DNS and adding block rules to ad domains and IP addresses )</li>
+<li>If you don't have firewall (hardware) you can install pfsense on a virtual machine and network cards (NIC) can be virtualized.</li>
+<li>You can also install ad-blocker inside your firewall (it block ads using DNS and adding block rules to ad domains and IP addresses ).</li>
 </ul>
 <h2 id="quota-check-script">Quota Check Script</h2>
 <ul>
-<li>If you have a few internet lines it can be tedious to check the quota every day to all lines so , why not automate it</li>
-<li>a simple Python script can login to we.eg website check how many GB you have left and how many day you have before renew for all your lines ,you can set it with task schedule to run every day in specific time and send you whats app message with the report </li>
-<li>check it out from <a href="https://github.com/AbanoubEhab/we_qouta_checker_Egypt">here</a></li>
+<li>If you have a few internet lines it can be tedious to check the quota every day to all lines so , why not automate it.</li>
+<li>A simple Python script can login to <a href="https://we.eg">we.eg</a> website check how many GB you have left and how many day you have before renew for all your lines ,you can set it with task schedule to run every day in specific time and send you whats app message with the report .</li>
+<li>Check it out from <a href="https://github.com/AbanoubEhab/we_qouta_checker_Egypt">here</a>.</li>
+</ul>
+<h2 id="setting-lancache-server">Setting Lancache server</h2>
+<ul>
+<li>In esports event or in any place where you have a lot of computers that need to download the same files (or games) form the Internet you might not have the enough bandwidth to internet.</li>
+<li>Lancache works in a simple but effective way :<ul>
+<li>you set it up and make it your primary DNS (set it in your DHCP)</li>
+<li>It intercept any http downloads you make and cache it locally</li>
+<li>when another computer download the same file it serve it locally without going out to the internet</li>
+</ul>
+</li>
 </ul>
 
 
@@ -498,8 +530,13 @@
 
 
 
+  
+  
 
 
+
+
+  
 
 
 
