@@ -21,7 +21,7 @@ hide:
 ## Quota Check Script
 
 - If you have a few internet lines it can be tedious to check the quota every day to all lines so , why not automate it.
-- A simple Python script can login to [we.eg](https://we.eg) website check how many GB you have left and how many day you have before renew for all your lines ,you can set it with task schedule to run every day in specific time and send you whats app message with the report .
+- A simple Python script can login to [te.eg](https://te.eg) website check how many GB you have left and how many day you have before renew for all your lines ,you can set it with task schedule to run every day in specific time and send you whats app message with the report .
 - Check it out from [here](https://github.com/AbanoubEhab/we_qouta_checker_Egypt).
 ## Setting Lancache server
 
