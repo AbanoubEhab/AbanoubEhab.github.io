@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Projects.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Projects.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Projects.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -148,22 +148,25 @@
   },
   "active": "909632bff7ca5ae4",
   "lastOpenFiles": [
+    "docs/assets/AbanoubEhabMalak.pdf",
+    "docs/assets/AbanoubEhabMalak2.pdf",
+    "docs/assets/index.pdf",
+    "docs/index2.docx",
+    "docs/index2.odt",
+    "docs/lu73999260kx.tmp",
+    "docs/lu73999260kr.tmp",
+    "docs/lu73999260kp.tmp",
+    "docs/lu73999260kj.tmp",
+    "docs/index.pdf",
+    "docs/lu73999260kh.tmp",
+    "docs/Projects.md",
     "docs/assets/bitwarden.png",
     "docs/assets/pfsense.png",
     "docs/assets/proxmox.png",
     "docs/assets/python.png",
     "docs/index.md",
-    "docs/Projects.md",
     "docs/assets/lancache.png",
     "docs/assets/profile.jpg",
-    "docs/assets/AbanoubEhabMalak.pdf",
-    "serve",
-    "overrides/partials/header.html",
-    "overrides/partials/Untitled Document",
-    "overrides/partials",
-    "overrides/Untitled Folder",
-    "overrides",
-    "Untitled Folder",
     "Pasted image 20240711133141.png",
     "Pasted image 20240711132941.png",
     "Untitled.canvas"

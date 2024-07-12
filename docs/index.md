@@ -15,9 +15,10 @@ hide:
 - Github: [github.com/AbanoubEhab](http://github.com/AbanoubEhab)
 - Date of birth: 13 January 1997
 - Military status: Exempted 
-- Address: Ezbet Alnakel,Marg 
+- Address: Ezbet Alnakel,Marg
 
 ---
+
 ## Education 
 
 Faculty of Commerce (Accounting) Ain Shams University, 2020, (65.15% Good)
@@ -29,6 +30,7 @@ Faculty of Commerce (Accounting) Ain Shams University, 2020, (65.15% Good)
 English: Very Good.
 
 ---
+
 ## Courses
 
 - CCNA 
@@ -43,7 +45,8 @@ English: Very Good.
 - Security: Sophos firewall (maintenance, updates, patches, policy changes)
 - Frappe ERP System Administration
 - Programming: Python scripting
-- Office Applications: Microsoft Word, Excel, Access, PowerPoint
+- Networking : CCNA
+- Linux (Ubuntu , Debian , Fedora , Redhat )
 
 ---
 
@@ -92,7 +95,8 @@ IMI (Orange)
 
 - Ability to learn quickly and adapt to new situations
 - Strong problem-solving skills
-- Ability to work independently or as part of a team
+- Ability to work independently or as part of a team easily
+- Critical thinking
 
 
 [Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
