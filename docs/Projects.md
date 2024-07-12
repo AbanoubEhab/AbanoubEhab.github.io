@@ -13,6 +13,7 @@ hide:
 ## <img align="center" style="center: left;" src="../assets/bitwarden.png" width="45"/> Host Password Manager
 
 - Bitwarden is a very cool password Manager ,it supports 2FA and can be used offline if you don't have internet connection.
+- You can also create organization on to to share credentials between employees securely including 2FA
 - I have never used password managers before self-host it because i don't trust a big company with my passwords whatever they say about privacy and security , so when i found out that i can self-host it i gave it a try.
 ## <img align="center" style="center: left;" src="../assets/pfsense.png" width="150"/>  Firewall inside Proxmox
 
