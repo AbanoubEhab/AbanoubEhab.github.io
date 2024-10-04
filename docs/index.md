@@ -5,7 +5,7 @@ hide:
 ---
 
 # Abanoub Ehab Malak
-<img style="float: right;" src="assets/profile.jpg"  width="192" height="190">
+<img style="float: right; border-radius: 5%;" src="assets/profile.jpg"  width="192" height="190">
 
 ## Personal Info
 
