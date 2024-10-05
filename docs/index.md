@@ -42,6 +42,7 @@ English: Very Good.
 ## Computer skills
 
 - Virtualization: Proxmox, Virtual Machines, LXC Containers
+- Docker & Docker Compose
 - Security: Sophos firewall (maintenance, updates, patches, policy changes)
 - Frappe ERP System Administration
 - Programming: Python scripting
