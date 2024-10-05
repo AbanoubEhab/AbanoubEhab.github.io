@@ -93,11 +93,11 @@ IMI (Orange)
 
 ## Other Skills
 
-- Ability to learn quickly and adapt to new situations
-- Strong problem-solving skills
-- Ability to work independently or as part of a team easily
-- Critical thinking
+- Fast learner and adaptable
+- Strong problem-solving and critical thinking
+- Team player with ability to work independently
 
+---
 
 [Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
 
