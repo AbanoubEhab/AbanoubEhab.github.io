@@ -43,7 +43,7 @@ hide:
 - **ERP Administration:** Frappe ERP System
 - **Programming Languages:** Python (Scripting)
 - **Networking:** CCNA (DNS, DHCP, TCP/IP, VLANs)
-- **Operating Systems:** Linux (Ubuntu, Debian, Fedora, RedHat)
+- **Operating Systems:** Linux (Ubuntu, Debian, Fedora, RedHat), Windows 10/11 ,Windows Server
 - **Hardware & Peripherals:** Photocopier and Printer Maintenance (Canon)
 
 ---
@@ -92,6 +92,8 @@ hide:
 - Excellent communication and team collaboration skills, with the ability to work independently when required.
 
 ---
+
+[Projects](./Projects){ .md-button }
 
 [Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
 
