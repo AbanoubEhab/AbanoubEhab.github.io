@@ -18,54 +18,26 @@ hide:
 - **Address:** Ezbet Alnakel, Marg
 
 ---
-
-## **Education**
-
-**Bachelor of Commerce (Accounting)**  
-*Ain Shams University* — **2020**  
-65.15% (Good)
-
----
-
-## **Courses**
-
-- Cisco Certified Network Associate (**CCNA**)
-- Microsoft Certified Solutions Associate (**MCSA**)
-- Red Hat Linux Administrator I (**RHCSA**)
-
----
-
-## **Technical Skills**
-
-- **Virtualization:** Proxmox, Virtual Machines, LXC Containers
-- **Containerization:** Docker, Docker Compose
-- **Security:** Sophos Firewall (maintenance, updates, patches, policy management)
-- **ERP Administration:** Frappe ERP System
-- **Programming Languages:** Python (Scripting)
-- **Networking:** CCNA (DNS, DHCP, TCP/IP, VLANs)
-- **Operating Systems:** Linux (Ubuntu, Debian, Fedora, RedHat), Windows 10/11 ,Windows Server
-- **Hardware & Peripherals:** Photocopier and Printer Maintenance (Canon)
-
----
-
-## **Languages**
-
-- **English:** Very Good
-
----
-
 ## **Professional Experience**
 
-### **IT Specialist**
+### **System Administrator**
 
-*Gamers Lounge* — *June 2022 – Present*
+*GL Esports (Gamers lounge)* — *Jun 2023 – Present*
 
-- Managed and maintained **Proxmox** and **Linux servers** for optimal performance and uptime.
-- Configured, updated, and maintained **Sophos firewall**, ensuring network security and compliance.
-- Troubleshot network issues, including **DNS**, **DHCP**, and hardware/software failures.
-- Administered **Frappe ERP system**, handling installation, configuration, and system management.
-- Optimized system performance and resource utilization through monitoring and adjustments.
-- Collaborated with IT team members on system design and technology implementation for business operations.
+- Managing and maintaining **Linux servers** and **Proxmox** for optimal performance and uptime.
+- Deploy and manage containers using **Docker** and **LXC**
+- Host various Services Like: **Frappe ERP, Nextcloud, Bitwarden, Snipe-IT,** Manage **Domains**, **DNS**, Issue and maintain **SSL certificates**
+- Manage and monitor **RAID** Array and **ZFS** partitions
+- Set up and configure Network hardware and **Sophos Firewalls**
+
+### **IT Helpdesk**
+
+*GL Esports (Gamers lounge) *—  Jun. 2022 – Jun. 2023
+
+- Recommend **PC builds** based on performance needs and budget  and guide purchasing decisions, Assemble and test PCs
+- Assemble and **Troubleshooting** PCs
+- Set up and configure **Network** hardware
+- Install and manage **CCTV** systems for security and office monitoring
 
 ### **Technician: Photocopiers and Printers**
 
@@ -84,16 +56,30 @@ hide:
 - Documented interactions in the CRM system and stayed updated on products and services through ongoing training.
 
 ---
+## **Education**
 
-## **Other Skills**
+**Bachelor of Commerce (Accounting)**  
+*Ain Shams University* — **2020**  
+65.15% (Good)
 
-- Quick learner with adaptability to new technologies.
-- Strong problem-solving and analytical thinking.
-- Excellent communication and team collaboration skills, with the ability to work independently when required.
+---  
+## **Courses, Skills & Interests** 
+
+* **Courses: CCNA**, **MCSA**, **RHCSA**
+* **Technologies:** **Virtualization**, **Docker**, **Python, Bash, GitHub Actions, Networking**  
+* **Skills : Quick learner** with adaptability to new technologies, Strong **problem-solving** and analytical thinking  
+* **Interests:** **Linux Enthusiast**, **home Labing**
 
 ---
+## **PROJECTS**
 
-[Projects](./Projects){ .md-button }
+- **Provided Tech Support / Build Network For Esports Events**
+	-  [**Red Bull Login**](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [**IAC Final 2022**](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)**, [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)**
+- **Building [Arcade Machine](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk) Powered by Linux**
+- [**Web Scraper**](https://github.com/AbanoubEhab/we_qouta_checker_Egypt) **that sends warnings when you need to recharge**
+
+
+[Other Projects](./Projects){ .md-button }
 
 [Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
 

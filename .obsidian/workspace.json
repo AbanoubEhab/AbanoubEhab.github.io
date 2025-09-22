@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Projects.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "index"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,11 +166,11 @@
   },
   "active": "909632bff7ca5ae4",
   "lastOpenFiles": [
+    "docs/Projects.md",
     "docs/assets/AbanoubEhabMalak.pdf",
     "docs/assets/AbanoubEhabMalak3.pdf",
     "docs/test1.pdf",
     "docs/assets/test1.pdf",
-    "docs/Projects.md",
     "docs/lu1243945y23t.tmp",
     "docs/lu1243945y22v.tmp",
     "docs/index.md",
@@ -179,7 +180,6 @@
     "docs/assets/profile.jpg",
     "docs/assets/pfsense.png",
     "docs/assets/index.pdf",
-    "docs/index2.docx",
     "docs/assets/bitwarden.png",
     "docs/assets/proxmox.png",
     "docs/assets/python.png",
