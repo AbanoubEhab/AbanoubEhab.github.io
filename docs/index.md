@@ -22,17 +22,21 @@ hide:
 
 ### **System Administrator**
 
-*GL Esports (Gamers lounge)* — *Jun 2023 – Present*
+*GL Esports/FWZ/Gamers Lounge* — *Jun 2023 – Present*
 
-- Managing and maintaining **Linux servers** and **Proxmox** for optimal performance and uptime.
-- Deploy and manage containers using **Docker** and **LXC**
-- Host various Services Like: **Frappe ERP, Nextcloud, Bitwarden, Snipe-IT,** Manage **Domains**, **DNS**, Issue and maintain **SSL certificates**
-- Manage and monitor **RAID** Array and **ZFS** partitions
-- Set up and configure Network hardware and **Sophos Firewalls**
+- Managing and maintaining **Linux servers** and **Proxmox** for optimal performance and uptime.  
+- Deploy and manage containers using **Docker** and **LXC**  
+- Host various Services Like: **Frappe ERP**, **Nextcloud**, **Bitwarden**, **Snipe-IT**, Manage **Domains**, **DNS,** Issue and maintain **SSL certificates**  
+- Served as **Frappe/ERPNext** ERP Administrator, managing system configuration, users, roles, and permissions.  
+- Manage and monitor **RAID** Array and **ZFS** partitions  
+- Set up and configure **Network** hardware and **Sophos Firewalls**  
+-  Implement and manage **Zabbix** monitoring  
+- Implemented and managed **site-to-site** **VPN**s to securely connect branch offices.  
+- Administered **Google Workspace** (Gmail, **Admin Console**), including user provisioning and permissions.
 
 ### **IT Helpdesk**
 
-*GL Esports (Gamers lounge) *—  Jun. 2022 – Jun. 2023
+*GL Esports/FWZ/Gamers Lounge*—  Jun. 2022 – Jun. 2023
 
 - Recommend **PC builds** based on performance needs and budget  and guide purchasing decisions, Assemble and test PCs
 - Assemble and **Troubleshooting** PCs
