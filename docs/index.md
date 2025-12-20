@@ -70,7 +70,7 @@ hide:
 ## **Courses, Skills & Interests** 
 
 * **Courses: CCNA**, **MCSA**, **RHCSA**
-* **Technologies:** **Virtualization**, **Docker**, **Python, Bash, GitHub Actions, Networking**  
+* **Technologies:** **Virtualization**, **Docker**, **Python, Bash, GitHub Actions, Networking**,**Firewalls**
 * **Skills : Quick learner** with adaptability to new technologies, Strong **problem-solving** and analytical thinking  
 * **Interests:** **Linux Enthusiast**, **home Labing**
 
@@ -78,8 +78,8 @@ hide:
 ## **PROJECTS**
 
 - **Provided Tech Support / Build Network For Esports Events**
-	-  [**Red Bull Login**](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [**IAC Final 2022**](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)**, [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)**
-- **Building [Arcade Machine](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk) Powered by Linux**
+	-  [**Esports Summit**](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq/), [**Red Bull Login**](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez), [**IAC Final 2022**](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR)**, [**WarPros**](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ), [**Sona’ay ELfawda**](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk)**, [**Proseed**](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1/), [**Campus Clutch**](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1/)
+- **Building [Arcade Machine](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB) Powered by Linux**
 - [**Web Scraper**](https://github.com/AbanoubEhab/we_qouta_checker_Egypt) **that sends warnings when you need to recharge**
 
 
