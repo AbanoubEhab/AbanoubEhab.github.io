@@ -83,7 +83,7 @@ hide:
 - [**Web Scraper**](https://github.com/AbanoubEhab/we_qouta_checker_Egypt) **that sends warnings when you need to recharge**
 - Caching Server for Downloads on a large network
 
-[Other Projects](./Projects){ .md-button }
+[Other Projects](./Projects.md){ .md-button }
 
 [Download as PDF](assets/AbanoubEhabMalak.pdf){: download="AbanoubEhabMalak.pdf" .md-button}
 
