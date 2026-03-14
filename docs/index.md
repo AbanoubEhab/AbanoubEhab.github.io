@@ -13,43 +13,44 @@ hide:
 - **Email:** [abanobehab@gmail.com](mailto:abanobehab@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abanoubehabmalak](http://linkedin.com/in/abanoubehabmalak)
 - **GitHub:** [github.com/AbanoubEhab](http://github.com/AbanoubEhab)
-- **Date of Birth:** 13 January 1997
-- **Military Status:** Exempted
-- **Address:** Ezbet Alnakel, Marg
 
 ---
+## Summary
+
+System Administrator and IT Specialist with 4+ years of experience managing on-prem infrastructure across 5 sites, check supporting 100+ users and 35+ endpoints. Strong expertise in virtualization, Docker/LXC, networking, firewalls, and storage (RAID/ZFS). Delivered reliable infrastructure for large-scale live events serving 100+ systems, reduced bandwidth consumption by terabytes, and cut cloud costs by $3,000+ through self-hosted solutions and automation.
+
+---
+
 ## **Professional Experience**
 
 ### **System Administrator**
 
-*GL Esports/FWZ/Gamers Lounge* — *Jun 2023 – Present*
+*FWZ previously known as Gamers Lounge* — *Jun 2023 – Present*
 
-- Managing and maintaining **Linux servers** and **Proxmox** for optimal performance and uptime.  
-- Deploy and manage containers using **Docker** and **LXC**  
-- Host various Services Like: **Frappe ERP**, **Nextcloud**, **Bitwarden**, **Snipe-IT**, Manage **Domains**, **DNS,** Issue and maintain **SSL certificates**  
-- Served as **Frappe/ERPNext** ERP Administrator, managing system configuration, users, roles, and permissions.  
-- Manage and monitor **RAID** Array and **ZFS** partitions  
-- Set up and configure **Network** hardware and **Sophos Firewalls**  
--  Implement and manage **Zabbix** monitoring  
-- Implemented and managed **site-to-site** **VPN**s to securely connect branch offices.  
-- Administered **Google Workspace** (Gmail, **Admin Console**), including user provisioning and permissions.
+* Managing and maintaining on-prem servers using the latest virtualization technologies.  
+* Deploying and managing containers using Docker and LXC.  
+* Administering company-wide systems for ERP, cloud storage, password manager, and inventory manager.  
+* Managing company domains, local DNS, and SSL certificates.  
+* Managing and monitoring on-prem storage using RAID Arrays and ZFS partitioning.  
+* Setting up and configuring large-scale network hardware.  
+* Setting up local firewalls for 5 sites with site-to-site VPN.  
+* Implementing and managing Zabbix monitoring system for 35+ computers.  
+* Administering Google Workspace (Gmail, Admin Console), including user provisioning and permissions for 100+ employees.
 
 ### **IT Helpdesk**
 
-*GL Esports/FWZ/Gamers Lounge*—  Jun. 2022 – Jun. 2023
+*Gamers Lounge*—  Jun. 2022 – Jun. 2023
 
-- Recommend **PC builds** based on performance needs and budget  and guide purchasing decisions, Assemble and test PCs
-- Assemble and **Troubleshooting** PCs
-- Set up and configure **Network** hardware
-- Install and manage **CCTV** systems for security and office monitoring
+* Managing inventory and Hardware requirements for office needs.  
+* Troubleshooting and fixing hardware and software-related issues.  
+* Setting up and managing CCTV security systems across 5 remote locations with over 30 cameras.
 
 ### **Technician: Photocopiers and Printers**
 
 *Canotech* — *May 2018 – June 2022*
 
-- Installed, configured, and maintained **Canon** photocopiers for clients.
-- Diagnosed and repaired issues such as paper jams, toner problems, and hardware malfunctions.
-- Managed driver installations and trained users on troubleshooting procedures.
+* Maintaining and managing more than 100 Canon photocopiers, including setup.  
+* Training more than 50 client employees on the photocopier machines and software.
 
 ### **Call Center Agent**
 
@@ -67,21 +68,25 @@ hide:
 65.15% (Good)
 
 ---  
-## **Courses, Skills & Interests** 
+## **Courses & Technologies** 
 
-* **Courses: CCNA**, **MCSA**, **RHCSA**
-* **Technologies:** **Virtualization**, **Docker**, **Python, Bash, GitHub Actions, Networking**,**Firewalls**
-* **Skills : Quick learner** with adaptability to new technologies, Strong **problem-solving** and analytical thinking  
-* **Interests:** **Linux Enthusiast**, **home Labing**
+* **Skills**: Quick learner with adaptability to new technologies, Strong problem-solving and analytical thinking, Troubleshooting, Critical thinking, Attention to detail, Time management, Task prioritization, Team collaboration, Documentation and technical writing, Ability to work under pressure, Incident response, Continuous learning mindset, Technical support, Reliable, Jira, Sophos Firewall, Hardware maintenance, Bulk software installation, Active Directory, VLAN configuration, Python programming, Docker, Windows SCSI, Network administration.  
+* **Technologies:** Linux, Virtualization, Networking, Firewalls, AWS, CI/CD, Git, VPN
 
 ---
-## **PROJECTS**
+## **Projects**
 
-- **Provided Tech Support / Build Network For Esports Events**
-	-  [**Esports Summit**](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq/), [**Red Bull Login**](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez), [**IAC Final 2022**](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR)**, [**WarPros**](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ), [**Sona’ay ELfawda**](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk)**, [**Proseed**](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1/), [**Campus Clutch**](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1/)
-- [**Linux Arcade Machine**](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)**: Designed and built a custom arcade machine powered by Linux.**
-- [**ISP Usage Tracker**](https://github.com/AbanoubEhab/we_qouta_checker_Egypt)**: Developed a Python-based web scraper that monitors internet usage and sends automated alerts when recharge is required.**
-- **Network Caching Server: Deployed a caching server to optimize download speeds and bandwidth usage across a large network.**
+* Leading teams of 80+ people to set up and deliver reliable solutions in live events such as:
+
+  * [Esports Summit(ESS)](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Red Bull Login](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [IAC Final 2022](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Proseed](https://www.linkedin.com/posts/hashemalborno_esports-gamingindustry-activity-7114504284402036738-1WJB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk), [Campus Cultch](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk)
+
+* Engineering and building a fully functional [Linux Arcade Machine](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACCB0K0BjGMf4wHN0SflD24mzjObVRClAOk).
+
+* Using web scraping and APIs, created a fully automated [quota management](https://github.com/AbanoubEhab/we_qouta_checker_Egypt) warning system.
+
+* Using LanCache, created a local server that handled download requests across 100+ local computers, saving terabytes of bandwidth.
+
+* Integrated private, self-hosted AI into web applications using Ollama’s REST API, saving 3000+ dollars in cloud computing costs.
 
 [Other Projects](./Projects.md){ .md-button }
 
