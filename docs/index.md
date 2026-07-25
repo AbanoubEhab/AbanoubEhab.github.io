@@ -18,9 +18,9 @@ hide:
 ## Summary
 
 System Administrator with 4+ years of experience managing multi-site Linux and virtualized
-infrastructure supporting 100+ users across 5 locations. Hands-on expertise in Proxmox VE
-virtualization, Docker/LXC containerization, Sophos firewall administration with site-to-site VPN,
-Zabbix monitoring, RAID/ZFS storage, and Frappe/ERPNext ERP administration. Proven track record
+infrastructure supporting 100+ users across 5 locations. Hands-on expertise in :simple-proxmox: Proxmox VE
+virtualization, :simple-docker: Docker/LXC containerization, Sophos firewall administration with site-to-site VPN,
+Zabbix monitoring, RAID/ZFS storage, and :simple-frappe: Frappe/ERPNext ERP administration. Proven track record
 reducing cloud costs by $3,000+ through self-hosted infrastructure and cutting bandwidth
 consumption by terabytes through custom automation. CCNA certified with self-studied Windows
 Server (MCSA) fundamentals.
@@ -28,12 +28,12 @@ Server (MCSA) fundamentals.
 ---
 ## Technical Skills
 
-- Virtualization & Infrastructure: Proxmox VE, Docker, LXC, VMware (familiar), Linux (Ubuntu,
-Debian, Fedora, Alpine), Windows Server
+- Virtualization & Infrastructure: Proxmox VE, Docker, LXC, VMware (familiar), Linux (:simple-ubuntu:Ubuntu,
+:simple-debian: Debian, :simple-fedora: Fedora, :simple-alpinelinux: Alpine), Windows Server
 - Networking & Security: Sophos Firewall, Site-to-Site VPN, MikroTik, Cisco networking, VLAN
 configuration, DNS, SSL/TLS certificate management, Active Directory
 - Monitoring & Automation: Zabbix, Python scripting, Bash scripting, Git, CI/CD, incident response
-- Storage: RAID, ZFS, iSCSI, backup and disaster recovery planning
+- Storage: RAID, ZFS, ISCSI, backup and disaster recovery planning
 - Enterprise Systems: Frappe/ERPNext administration, Google Workspace administration (Gmail,
 Admin Console, user provisioning), CCTV systems (30+ camera deployments)
 - Cloud: AWS (familiar), Ollama self-hosted AI/REST API integration
@@ -102,7 +102,19 @@ handling download requests across 100+ computers
 * Led cross-functional teams of 80+ people delivering network and systems infrastructure for
 large-scale live events:
 
-  * [Esports Summit(ESS)](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq), [Red Bull Login](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez), [IAC Final 2022](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR), [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ), [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk), [Proseed](https://www.linkedin.com/posts/hashemalborno_esports-gamingindustry-activity-7114504284402036738-1WJB), [Campus Cultch](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1)
+  
+<div class="grid cards" markdown>
+
+- [Esports Summit(ESS)](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq)
+- :simple-redbull: [Red Bull Login](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez)
+- [IAC Final 2022](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR)
+- [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ)
+- [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk)
+- [Proseed](https://www.linkedin.com/posts/hashemalborno_esports-gamingindustry-activity-7114504284402036738-1WJB)
+- [Campus Cultch](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1)
+
+
+</div>
 
 * Built a fully functional Linux-based [Linux Arcade Machine](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_esports-gaming-redbull-ugcPost-7305184887190220800--QCB).
 
