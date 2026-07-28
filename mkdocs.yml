@@ -16,6 +16,7 @@ theme:
       - navigation.top
 
 
+
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -34,12 +35,3 @@ extra:
 
     - icon: fontawesome/brands/github 
       link: https://github.com/AbanoubEhab
-
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/abanoub.ehab.malak
-
-    - icon: fontawesome/brands/discord 
-      link: https://discordapp.com/users/989272289289863198
-
-  
-

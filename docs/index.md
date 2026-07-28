@@ -8,11 +8,8 @@
 
 System Administrator specializing in multi-site infrastructure, virtualization, and self-hosted solutions
 
-[:fontawesome-brands-square-linkedin: LinkedIn](https://linkedin.com/in/abanoubehabmalak){ .md-button }
-[:simple-github: GitHub](https://github.com/AbanoubEhab){ .md-button }
 [:man_in_tuxedo: About Me](./About_Me.md){ .md-button }
 [:computer: Projects](./Projects.md){ .md-button }
-
 [Download CV](assets/Abanoub_Ehab.pdf){ .md-button .md-button--primary }
 
 </div>
