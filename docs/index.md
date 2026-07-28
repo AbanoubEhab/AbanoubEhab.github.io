@@ -1,15 +1,28 @@
+---
+hide:
+  - navigation
+  - toc
+---
 <div class="hero" markdown>
 
-<!--<img src="assets/profile.jpg" alt="Abanoub Ehab Malak" class="hero-photo">-->
-<img style="border-radius: 5%;" src="assets/profile.jpg"  width="370" height="368">
+<div class="hero-photo-wrap">
+  <img src="assets/profile.jpg" alt="Abanoub Ehab Malak">
+</div>
 
+<div class="hero-text" markdown>
+
+<p class="hero-eyebrow">System Administrator</p>
 
 # Abanoub Ehab Malak
 
-System Administrator specializing in multi-site infrastructure, virtualization, and self-hosted solutions
+Managing multi-site Linux and virtualized infrastructure. Proven track record of reducing cloud costs and optimizing bandwidth for 100+ users across multiple locations.
 
 [:man_in_tuxedo: About Me](./About_Me.md){ .md-button }
 [:computer: Projects](./Projects.md){ .md-button }
-[Download CV](assets/Abanoub_Ehab.pdf){ .md-button .md-button--primary }
+
+[Download Resume](assets/Abanoub_Ehab.pdf){ .md-button .btn-solid }
+
+
+</div>
 
 </div>
