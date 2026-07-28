@@ -5,7 +5,7 @@ hide:
 
 # Projects
 
-## **Esports Summit (ESS)**
+## <img align="center" style="center: left;" src="../assets/ess.png" width="50"/> **Esports Summit (ESS)**
 I had the opportunity to manage the network and internet infrastructure for the Esports Summit (ESS) event. 
 
 I was responsible for:
@@ -44,3 +44,7 @@ I was responsible for:
 	- you set it up and make it your primary DNS (set it in your DHCP)
 	- It intercept any http downloads you make and cache it locally
 	- when another computer download the same file it serve it locally without going out to the internet
+
+## <img align="center" style="center: left;" src="../assets/cs-2-logo.png" width="50"/> **CS2 Server** 
+
+- Deployed a CS2 game server using Docker inside an LXC container with persistent storage mounting, built for Esports Summit tournament infrastructure. Achieved ~7ms latency across Cairo during testing; planned site-to-site VPN access for the event before the tournament was cancelled.
