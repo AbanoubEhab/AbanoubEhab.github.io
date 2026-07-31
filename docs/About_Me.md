@@ -4,16 +4,8 @@ hide:
   - navigation
 ---
 
-# Abanoub Ehab Malak
+# 
 
-**Personal Information:**
-
-- **Phone:** +201208147368
-- **Email:** [abanobehab@gmail.com](mailto:abanobehab@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abanoubehabmalak](http://linkedin.com/in/abanoubehabmalak)
-- **GitHub:** [github.com/AbanoubEhab](http://github.com/AbanoubEhab)
-
----
 ## Summary
 
 System Administrator with 4+ years of experience managing multi-site Linux and virtualized

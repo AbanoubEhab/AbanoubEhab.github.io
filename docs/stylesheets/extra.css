@@ -91,11 +91,43 @@
   }
 }
 
-.testing {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-items: stretch;
-	align-content: stretch;
+.contact-hover {
+  position: relative;
+  display: inline-block;
+}
+
+.contact-popup {
+  position: absolute;
+  bottom: 115%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  white-space: nowrap;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+  z-index: 10;
+}
+
+.contact-popup p {
+  margin: 0.25rem 0;
+  font-size: 0.9rem;
+  color: var(--md-default-fg-color);
+}
+
+.contact-hover:hover .contact-popup {
+  opacity: 1;
+  visibility: visible;
+}
+
+.md-typeset {
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: 1rem;
+    line-height: 1.6;
+    overflow-wrap: break-word;
 }

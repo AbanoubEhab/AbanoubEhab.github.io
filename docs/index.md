@@ -20,9 +20,18 @@ Managing multi-site Linux and virtualized infrastructure. Proven track record of
 [:man_in_tuxedo: About Me](./About_Me.md){ .md-button }
 [:computer: Projects](./Projects.md){ .md-button }
 
-[Download Resume](assets/Abanoub_Ehab.pdf){ .md-button .btn-solid }
+[:fontawesome-brands-square-linkedin: LinkedIn](https://linkedin.com/in/abanoubehabmalak){ .md-button }
+[:simple-github: GitHub](https://github.com/AbanoubEhab){ .md-button }
 
-
+<div class="contact-hover">
+  <a class="md-button">☎️ Contact</a>
+  <div class="contact-popup">
+    <p>📧 <a href="mailto:abanobehab@gmail.com">abanobehab@gmail.com</a></p>
+    <p>📱 <a href="tel:+201208147368">+201208147368</a></p>
+  </div>
 </div>
+[Download Resume](assets/Abanoub_Ehab.pdf){ .md-button .btn-solid }
+</div>
+
 
 </div>
