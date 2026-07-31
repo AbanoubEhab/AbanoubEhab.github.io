@@ -6,7 +6,7 @@ hide:
 <div class="hero" markdown>
 
 <div class="hero-photo-wrap">
-  <img src="assets/profile.jpg" alt="Abanoub Ehab Malak">
+  <img src="assets/profile.jpg" alt="Abanoub Ehab Malak, System Administrator">
 </div>
 
 <div class="hero-text" markdown>
