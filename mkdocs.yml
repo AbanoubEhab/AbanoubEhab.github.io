@@ -1,4 +1,4 @@
-site_name: Abanoub Ehab Malak - System Admin
+site_name: Abanoub Ehab Malak - System Administrator
 site_description: System Administrator specializing in multi-site Linux infrastructure, virtualization (Proxmox VE), and self-hosted solutions in Cairo, Egypt.
 site_url: https://abanoubehab.github.io
 repo_url: https://github.com/AbanoubEhab/AbanoubEhab.github.io
@@ -37,6 +37,3 @@ extra:
 
     - icon: fontawesome/brands/github 
       link: https://github.com/AbanoubEhab
-
-plugins:
-  - social

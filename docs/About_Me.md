@@ -96,14 +96,14 @@ large-scale live events:
   
 <div class="grid cards" markdown>
 
-- [Esports Summit(ESS)](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq)
-- [Red Bull Login](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez)
-- [IAC Final 2022](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR)
-- [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ)
-- [Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk)
-- [Proseed](https://www.linkedin.com/posts/hashemalborno_esports-gamingindustry-activity-7114504284402036738-1WJB)
-- [Campus Cultch](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1)
-- [MPL](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_last-friday-hassan-mostafa-stadium-hosted-ugcPost-7464620223296561153-Micd)
+- <img align="center" style="center: left;" src="../assets/ess.png" alt="ESS" width="50"/> [Esports Summit(ESS)](https://www.linkedin.com/posts/abanoubehabmalak_esports-networking-infrastructure-activity-7392174317037506560-PRPq)
+- <img align="center" style="center: left;" src="../assets/login.avif" alt="login" width="50"/> [Red Bull Login](https://www.linkedin.com/posts/abanoubehabmalak_reflecting-on-the-journey-of-bringing-red-activity-7260039753117417472-dXez)
+- <img align="center" style="center: left;" src="../assets/IAC.png" alt="IAC" width="50"/> [IAC Final 2022](https://www.linkedin.com/posts/arabhardware%2Enet_iac2022-iac2022-esports-activity-7005652485398794241-5ibR)
+- <img align="center" style="center: left;" src="../assets/warpros.png" alt="warpros" width="50"/> [WarPros](https://www.linkedin.com/posts/ahmed-abdelaziz-563933130_im-so-glad-to-say-that-we-are-so-back-activity-7345831356850917376-mEnQ)
+- <img align="center" style="center: left;" src="../assets/sona'ay_elfawda.png" alt="sona'ay_elfawda" width="50"/>[Sona’ay ELfawda](https://www.linkedin.com/posts/abanoubehabmalak_at-gamers-lounge-we-believe-in-transforming-activity-7277409944042115072-Kqwk)
+- <img align="center" style="center: left;" src="../assets/proseed.webp" alt="proseed" width="50"/> [Proseed](https://www.linkedin.com/posts/hashemalborno_esports-gamingindustry-activity-7114504284402036738-1WJB)
+- <img align="center" style="center: left;" src="../assets/campus_clutch.png" alt="Campus Clutch" width="50"/> [Campus Cultch](https://www.linkedin.com/posts/hashemalborno_esports-gamerslounge-gaming-activity-6995698318609661953-UVu1)
+- <img align="center" style="center: left;" src="../assets/MPL.png" alt="MPL" width="50"/> [MPL](https://www.linkedin.com/posts/ahmed-abdel-latif-03398036_last-friday-hassan-mostafa-stadium-hosted-ugcPost-7464620223296561153-Micd)
 
 
 </div>
