@@ -19,7 +19,7 @@ Across these events, I was typically responsible for:
 
 <img align="center" style="center: left;" width="800" src="../assets/events.png" alt="Esports Events"/>
 
-## <img align="center" style="center: left;" src="../assets/proxmox.png" width="50"/> **Proxmox Home Lab**
+## <img align="center" style="center: left;" src="../assets/proxmox.png" width="50" alt="Proxmox"/> **Proxmox Home Lab**
 
 Having a place to test whatever comes to mind is genuinely useful, so I repurposed an old PC and installed Proxmox VE on it as a self-hosting playground. It lets me spin up virtual machines or LXC containers on demand, and TurnKey Linux offers a solid library of pre-configured container templates that make deploying new services fast rather than starting from a blank OS every time.
 
@@ -35,13 +35,13 @@ I'd never used a password manager before this, mainly because I didn't want to t
 
 If you don't have a dedicated hardware firewall, pfSense can be run as a virtual machine instead, with network interface cards virtualized alongside it. I also added DNS-based ad-blocking within the firewall layer, filtering ads by blocking known ad domains and IP ranges at the network level rather than relying on browser extensions.
 
-## <img align="center" style="center: left;" src="../assets/python.png" width="50"/> **Internet Quota Monitoring Script**
+## <img align="center" style="center: left;" src="../assets/python.png" width="50" alt="Python"/> **Internet Quota Monitoring Script**
 
 Manually checking quota usage across multiple internet lines every day gets tedious fast, so I automated it. This Python script logs into the [te.eg](https://te.eg) portal, checks remaining data and days left until renewal for each line, and can be scheduled via task scheduler to run automatically — sending a daily WhatsApp report so I never have to check manually.
 
 Check it out on [GitHub](https://github.com/AbanoubEhab/we_qouta_checker_Egypt).
 
-## <img align="center" style="center: left;" src="../assets/lancache.png" width="50"/> **LanCache Server Deployment**
+## <img align="center" style="center: left;" src="../assets/lancache.png" width="50" alt="LanCache"/> **LanCache Server Deployment**
 
 At esports events — or anywhere with many computers needing to download the same large files or game updates — available bandwidth often can't keep up with demand. LanCache solves this efficiently:
 
@@ -51,7 +51,7 @@ At esports events — or anywhere with many computers needing to download the sa
 
 This approach saved terabytes of bandwidth across 100+ computers during live events.
 
-## <img align="center" style="center: left;" src="../assets/cs-2-logo.png" width="60"/> **CS2 Game Server**
+## <img align="center" style="center: left;" src="../assets/cs-2-logo.png" width="60" alt="CS2"/> **CS2 Game Server**
 
 Deployed a CS2 game server using Docker inside an LXC container with persistent storage mounting, built for Esports Summit tournament infrastructure. Achieved ~7ms latency across Cairo during testing; planned site-to-site VPN access for the event before the tournament was cancelled.
 
