@@ -131,3 +131,8 @@
     line-height: 1.6;
     overflow-wrap: break-word;
 }
+
+.md-header__button.md-icon[for="__search"],
+.md-search {
+    display: none !important;
+}
