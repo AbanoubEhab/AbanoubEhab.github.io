@@ -1,0 +1,7 @@
+# Abanoub Ehab Malak
+
+> System Administrator / IT Specialist based in Cairo, Egypt, transitioning toward DevOps.
+
+## Pages
+- [About Me](https://abanoubehab.github.io/About_Me/): Background, skills, certifications
+- [Projects](https://abanoubehab.github.io/Projects/): Infrastructure and homelab projects
