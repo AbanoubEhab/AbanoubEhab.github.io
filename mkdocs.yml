@@ -3,7 +3,9 @@ site_description: System Administrator specializing in multi-site Linux infrastr
 site_url: https://abanoubehab.github.io
 repo_url: https://github.com/AbanoubEhab/AbanoubEhab.github.io
 theme:
-
+  
+  logo: assets/logo.png
+  favicon: assets/logo.png
   name: material
   palette:
 
