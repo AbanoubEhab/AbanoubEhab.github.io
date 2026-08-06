@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Abanoub Ehab Malak",
+    "jobTitle": "System Administrator / IT Specialist / DevOps",
+    "url": "https://abanoubehab.github.io/",
+    "sameAs": [
+      "https://www.linkedin.com/in/abanoubehabmalak",
+      "https://github.com/AbanoubEhab"
+    ],
+    "knowsAbout": [
+      "System Administration",
+      "Proxmox VE",
+      "Linux",
+      "Networking",
+      "DevOps",
+      "Firewalls"
+    ]
+  }
+  </script>
+{% endblock %}
