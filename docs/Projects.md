@@ -61,4 +61,4 @@ Deployed a CS2 game server using Docker inside an LXC container with persistent 
 
 I built the electronics and internal systems for a fully functional arcade machine, integrating the wiring, controls, and display into a cabinet. The system runs on an Intel i5 4th generation CPU with integrated graphics, handling a curated library of retro games spanning NES, SNES, PS1, PS2, and Nintendo DS emulation. For the software, I used Batocera, a Linux-based retro-gaming distribution, configuring the system for proper controller mapping and a smooth boot-to-play experience.
 
-<img align="center" style="center: left;" width="400" src="../assets/Arcade.jpg" alt="Arcade Machine"/>
+<img align="center" style="center: left;" width="700" src="../assets/Arcade.png" alt="Arcade Machine"/>
